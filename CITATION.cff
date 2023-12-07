@@ -1,12 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this Paper/software, please cite it as below."
 authors:
 - family-names: "Awais"
   given-names: "Muhammad"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-
-title: "IDASS_VaDE"
-version: 1.0.0
+  orcid: "https://orcid.org/0000-0001-8429-1367"
+- family-names: "Choi"
+  given-names: "Jinho"
+- family-names: "Park"
+  given-names: "Jihong"
+- family-names: "kim"
+  given-names: "Yun Hee"
+title: "Intelligent Semantic Sensing with Variational Autoencoder Clustering"
 doi: 10.5281/zenodo.1234
 date-released: 2023-12-06
 url: "https://github.com/Awais-k/IDASS_VaDE"
